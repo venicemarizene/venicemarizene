@@ -1,5 +1,5 @@
 <h1> Hi there! 👋🏻 </h1>
-<p> I am Venice Marizene Linga, passionate about coding and competent in database management. I excel in solving problems and using various tools to program or design a project. 
+<p> I am Venice Marizene Linga, passionate about coding and competent in database management. I excel in solving problems and using various tools to design a project. 
   My journey in technology commenced with the BS Computer Science program. </p>
 
 <h2> Education </h2>
@@ -9,6 +9,8 @@
 <li> 2023-Present </li> </ul>
 
 <h2> Certifications </h2>
+<ul style="list-style-type:circle">
+<li> <a href="https://courses.cognitiveclass.ai/certificates/39a1365c3e3b4e83b6ded871c0444afb"> SQL and Relational Databases 101 </li> </a> </ul>
 
 <h2> Skill Sets </h2>
 <ul style="list-style-type:circle">
