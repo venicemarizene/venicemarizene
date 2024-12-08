@@ -12,7 +12,7 @@
 <ul style="list-style-type:circle">
 <li> <a href="https://courses.cognitiveclass.ai/certificates/39a1365c3e3b4e83b6ded871c0444afb"> SQL and Relational Databases 101 </li> </a>
 <li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C605498C8E9F4987BFFC0997FB951068A8D2C2153B78CA5D0924E5AB1D0797DD"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </li> </a>
-<li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C605498C8E9F4987BFFC0997FB9510684BD899889A500397EDDB5BD2BFB0C70F"> Oracle Cloud Data Management 2024 Data Certified Foundations Associate </li> </a> </ul>
+<li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C605498C8E9F4987BFFC0997FB9510684BD899889A500397EDDB5BD2BFB0C70F"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </li> </a> </ul>
 
 <h2> Skill Sets </h2>
 <ul style="list-style-type:circle">
