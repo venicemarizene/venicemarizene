@@ -15,6 +15,10 @@
 <li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C605498C8E9F4987BFFC0997FB9510684BD899889A500397EDDB5BD2BFB0C70F"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </li> </a> 
 <li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=784D23D97BD9C9446426864A59172B1AFFFEC177932EFC93B1DA24D7570DEEBE"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a> </li> </ul>
 
+<h2> Badges </h2>
+<ul style="list-style-type:circle">
+<li> <a href="https://tryhackme.com/venicemarizene.l/badges/terminaled"> TryHackMe cat linux.txt Badge </li> </a> </ul>
+
 <h2> Skill Sets </h2>
 <ul style="list-style-type:circle">
 <li> <b> Programming: </b> Java </li>
